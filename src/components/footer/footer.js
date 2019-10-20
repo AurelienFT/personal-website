@@ -14,7 +14,7 @@ export default class Footer extends Component {
                             </ul>
                             <ul className="copyright">
                                 <li>© Copyright 2019 Aurélien FOUCAULT</li>
-                                <li>Crée par <a title="Styleshout" href="http://www.styleshout.com/"> Aurélien FOUCAULT (aussi)</a></li>
+                                <li>Crée par Aurélien FOUCAULT (aussi)</li>
                             </ul>
                         </div>
                         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
