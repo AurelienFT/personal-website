@@ -48,7 +48,27 @@ export default class Resume extends Component {
                             <div className="row item">
                                 <div className="twelve columns">
                                     <h3>Aerys</h3>
-                                    <p className="info">Developpeur R&D temps partiel<span>•</span> <em className="date">Octobre 2019 - Present</em></p>
+                                    <p className="info">Developpeur R&D temps partiel<span>•</span> <em className="date">Septembre 2020 - Present</em></p>
+                                    <p>
+                                        Développement d'une d'API GraphQL en Rust.
+                                        <br></br>
+                                        Développement d'une crate Rust pour ajouter des permissions à des documents MongoDB.
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="row item">
+                                <div className="twelve columns">
+                                    <h3>Streamwide</h3>
+                                    <p className="info">Developpeur moteur VoIP<span>•</span> <em className="date">Mai 2020 - Aout 2020</em></p>
+                                    <p>
+                                        Ajout de l'IPV6 sur un moteur VoIP
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="row item">
+                                <div className="twelve columns">
+                                    <h3>Aerys</h3>
+                                    <p className="info">Developpeur R&D temps partiel<span>•</span> <em className="date">Octobre 2019 - Avril 2020</em></p>
                                     <p>
                                         Développement d'un prototype d'API GraphQL en Rust.
                                         <br></br>
@@ -89,6 +109,7 @@ export default class Resume extends Component {
                         <div className="nine columns main-col">
                             <div className="bars">
                                 <ul className="skills">
+                                    <li><span className="bar-expand c" /><em>Rust</em></li>
                                     <li><span className="bar-expand c" /><em>C</em></li>
                                     <li><span className="bar-expand cpp" /><em>C++</em></li>
                                     <li><span className="bar-expand nodejs" /><em>NodeJS</em></li>

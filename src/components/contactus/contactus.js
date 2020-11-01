@@ -9,7 +9,7 @@ export default class ContactUs extends Component {
                                     <h2>Mon contact</h2>
                                     <p className="address">
                                         <span>Aurélien FOUCAULT</span><br />
-                                        <span>94800 Villejuif
+                                        <span>13005 Marseille
                                         </span><br />
                                         <span>0678339942</span><br />
                                         <span>aurelien.foucault@epitech.eu</span>

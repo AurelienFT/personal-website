@@ -11,7 +11,7 @@ export default class About extends Component {
                         <div className="nine columns main-col">
                             <h2>A propos de moi</h2>
                             <p>
-                                Je suis étudiant à EPITECH en 3ème année. Au delà de l'école je suis aussi passionné par le code.
+                                Je suis étudiant à EPITECH en 4ème année. Au delà de l'école je suis aussi passionné par le code.
                                 C'est pour cela que j'ai choisis de faire du freelance en plus de mes études.
                                 Je m'investis beaucoup dans l'école où j'ai eu l'honneur d'encadrer les premières années pendant un an.
                                 <br></br>
@@ -24,7 +24,7 @@ export default class About extends Component {
                                     <h2>Mon contact</h2>
                                     <p className="address">
                                         <span>Aurélien FOUCAULT</span><br />
-                                        <span>94800 Villejuif
+                                        <span>13005 Marseille
                                         </span><br />
                                         <span>0678339942</span><br />
                                         <span>aurelien.foucault@epitech.eu</span>
