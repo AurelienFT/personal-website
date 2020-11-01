@@ -26,7 +26,6 @@ export default class About extends Component {
                                         <span>Aurélien FOUCAULT</span><br />
                                         <span>13005 Marseille
                                         </span><br />
-                                        <span>0678339942</span><br />
                                         <span>aurelien.foucault@epitech.eu</span>
                                     </p>
                                 </div>
